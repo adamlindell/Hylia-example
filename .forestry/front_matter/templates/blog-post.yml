@@ -26,3 +26,5 @@ fields:
     maxSize: 64
   label: OG Image
   description: The image used when sharing a link, also used as the header image
+pages:
+- src/posts/beginning-javascript.md
