@@ -1,4 +1,10 @@
 ---
 label: Blog Post
 hide_body: false
-fields: []
+fields:
+- name: ogImage
+  type: file
+  config:
+    maxSize: 64
+  label: OG Image
+  description: The image used when sharing a link, also used as the header image
