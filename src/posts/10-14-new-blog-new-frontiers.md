@@ -1,7 +1,7 @@
 ---
 tags:
 - training
-title: " 10/14 New Blog, New Frontiers"
+title: New Blog, New Frontiers
 date: 2019-10-14T19:05:00Z
 ogImage: ''
 
@@ -12,7 +12,7 @@ This is a great time to be developing on the web! More than ever before, the pro
 
 ## Great Responsibility
 
-It's awesome that a website can be so many things to so many people at so many times. The implication of this truth is that managing web content is harder than it looks. Web developers and designers need to be aware of all the (sometimes unexpected) ways users will try to use our site when making changes. The wonderful promise of the sheer _accessibility_ of the web is only realized if we do it right.
+It's awesome that a website can be so many things to so many people at so many times. The implication of this truth is that managing web content is harder than it looks. Web developers and designers need to be aware of all the (sometimes unexpected) ways users will try to use our site when making changes. The wonderful promise of the sheer _accessibility_ of the web is only realized if we _do it right._
 
 "Works on my machine" is the cliched excuse of a lazy developer, but it's never acceptable on the web. On the public web, perception is reality.
 
