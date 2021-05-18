@@ -15,7 +15,7 @@ The promise of CSS is awesome - seperate all of your styling code from the conte
 
 **Flexbox**, as its name implies, gives you access of how child elements flex inside of the boundary of the object. You can easily control the order, spacing, and orientation of components. Since you don't specify specific positioning of these elements the parent object can remain _flexible_, shifting content around without resorting to media queries.​
 
-### Check out [Flexbox Froggy](https://flexboxfroggy.com/) to learn more about Flexbox.****
+### Check out [Flexbox Froggy](https://flexboxfroggy.com/) to learn more about Flexbox.
 
 **​CSS Grid** is also aptly named. It allows you to do flexible, grid-based layouts without resorting to putting presentational markup or using JavaScript libraries like [Bootstrap](https://getbootstrap.com/).  
 ​
