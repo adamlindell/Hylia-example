@@ -3,7 +3,7 @@ tags:
 - training
 - " JavaScript"
 title: Learn JavaScript - freeCodeCamp
-date: 2019-11-04T18:40:00Z
+date: 2019-11-04T18:40:00.000+00:00
 ogImage: ''
 
 ---
@@ -33,4 +33,4 @@ Functional programming is the new hotness in the programming world. Being descen
 
 ## More to explore
 
-![Homer saying "your ideas are intruiging to me and I'd like to subscribe to your newsletter"](/uploads/yourideas.jpg "Homer and Bart Simpson meme")All of freeCodeCamp's curricula are relevant to our interests. If you like this style of learning, feel free to explore other topics!
+![Homer saying "your ideas are intruiging to me and I'd like to subscribe to your newsletter"](/images/yourideas.jpg "Homer and Bart Simpson meme")All of freeCodeCamp's curricula are relevant to our interests. If you like this style of learning, feel free to explore other topics!
