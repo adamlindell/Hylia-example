@@ -29,6 +29,7 @@ fields:
 pages:
 - src/posts/10-14-new-blog-new-frontiers.md
 - src/posts/beginning-javascript.md
+- src/posts/inspiration.md
 - src/posts/jamstack-conf-all-the-scripts-you-ll-load.md
 - src/posts/learn-javascript-freecodecamp.md
 - src/posts/modern-css-flexbox-and-grid-layouts.md
