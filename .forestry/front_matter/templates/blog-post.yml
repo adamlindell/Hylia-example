@@ -28,4 +28,5 @@ fields:
   description: The image used when sharing a link, also used as the header image
 pages:
 - src/posts/beginning-javascript.md
+- src/posts/pro-git.md
 - src/posts/the-state-of-the-web.md
