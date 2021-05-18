@@ -10,7 +10,7 @@ ogImage: ''
 
 JavaScript is the world's most misunderstood language, and for good reason. I mean, let's start with the name: Java and JavaScript have little in common. They weren't invented at the same place (Java was invented at Sun, JavaScript was invented at Netscape). They have very different opinions on fundamental language features like types, objects, and programming paradigms. Java was trying to position itself as the language of the web (after first failing to become the language of "smart appliances" in the early 90's). In 1994, everyone thought that web applications would be dominated by Java Applets.
 
-[![xkcd comic where a man says "my motto is to move fast and break things!" and a listing of all the jobs he's been fired from](/uploads/xkcd-movefast.png)](https://xkcd.com/1428/)
+[![xkcd comic where a man says "my motto is to move fast and break things!" and a listing of all the jobs he's been fired from](/images/xkcd-movefast.png)](https://xkcd.com/1428/)
 
 Netscape wasn't sold on applets and they were looking for a (proprietary) killer feature for Navigator 2.0. Being a company that believed in _move fast and break things_ before it was cool, they gave designer Brendan Eich **10 days** to develop ~~Mocha~~ ~~LiveScript~~ JavaScript. The Netscape marketing team named it JavaScript so that they could ride the Java hype train. Which worked only too well.
 
